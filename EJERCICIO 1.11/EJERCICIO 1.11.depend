@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1560383148 source:c:\users\william\desktop\programacion en c\ejercicio 1.11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"milibreria.h"
+
+1560383142 c:\users\william\desktop\programacion en c\ejercicio 1.11\milibreria.h
+
+1560386573 source:c:\users\william\desktop\programacion en c\ejercicio 1.11\milibreria.c
+

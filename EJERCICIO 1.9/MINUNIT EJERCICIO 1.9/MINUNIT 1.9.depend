@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1560298720 source:c:\users\william\desktop\programacion en c\minunit ejercicio 1.9\milibreria.c
+	"milibreria.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1560293269 c:\users\william\desktop\programacion en c\minunit ejercicio 1.9\milibreria.h
+
