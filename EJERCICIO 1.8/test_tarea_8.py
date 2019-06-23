@@ -1,3 +1,4 @@
+# muy pocos TCs -50
 from c_testing_from_exe.abstract_test_case import PruebaAbstracta
 
 # Recuerda Compilar con las opciones -static-libgcc y -static-libstdc++
