@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 int n;
+
+// Falta la evaluacion en el polinomio -30
+
 int main()
 {
     do{
