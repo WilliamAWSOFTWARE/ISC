@@ -5,6 +5,8 @@ static int bar = 0;
 static double dbar = 0.1;
 static const char* foostring = "Thisstring";
 
+// muy pocos TCs -30
+
 void test_setup(void) {
 } mu_assert_int_eq(2,fx(2,23));
 
