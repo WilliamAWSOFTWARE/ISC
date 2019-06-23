@@ -1,3 +1,4 @@
+//Faltan funciones -10
 
 #ifndef MILIBRERIA_H
 int bin1(int A1, int X, int A0);
