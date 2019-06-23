@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
+// Las entradas de este ejercicio tenian que ser la velocidad maxima y el tiempo de respuesta -10
 int v,d;
 int main()
 {
