@@ -6,6 +6,8 @@
 float  prom=0,numero=0, suma=0, sumatoria=0,num[1],totalsum=0,numero2=0;
 int i=0,d=0;
 
+// Nombrar funcion adecuadamente -10
+// Evitar uso de printf -5
 float promedio(float n){
     for(i=0;i<n;i++){
         printf("Ingrese el Numero en l posicion %d: ", i);
