@@ -5,6 +5,8 @@ static int bar = 0;
 static double dbar = 0.1;
 static const char* foostring = "Thisstring";
 
+// Quitar codigo innecesario -10
+
 void test_setup(void) {
 }
 
